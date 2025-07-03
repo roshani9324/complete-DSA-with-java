@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "Function_a5bce23e"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "Function_a5bce23e"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Overloading",
+            "projectName": "Function_a5bce23e"
+        },
+        {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "Function_a5bce23e"
+        },
+        {
+            "type": "java",
+            "name": "factorial1",
+            "request": "launch",
+            "mainClass": "factorial1",
+            "projectName": "Function_a5bce23e"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "Function_a5bce23e"
+        }
+    ]
+}
