@@ -7,7 +7,7 @@ public class SortedMatrix {
             return true;
         }
         else if(key <matrix[row][col]){
-            col--;
+            col--; 
         }else {
             row++;
         }
